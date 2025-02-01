@@ -16,6 +16,7 @@
 		83D89FAE2D4E17C400B72F5D /* CombineExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D89FAD2D4E17C400B72F5D /* CombineExampleTests.swift */; };
 		83D89FB82D4E17C400B72F5D /* CombineExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D89FB72D4E17C400B72F5D /* CombineExampleUITests.swift */; };
 		83D89FBA2D4E17C400B72F5D /* CombineExampleUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D89FB92D4E17C400B72F5D /* CombineExampleUITestsLaunchTests.swift */; };
+		83D89FC72D4E244200B72F5D /* LoginVerify.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83D89FC62D4E244200B72F5D /* LoginVerify.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		83D89FB32D4E17C400B72F5D /* CombineExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CombineExampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		83D89FB72D4E17C400B72F5D /* CombineExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineExampleUITests.swift; sourceTree = "<group>"; };
 		83D89FB92D4E17C400B72F5D /* CombineExampleUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CombineExampleUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		83D89FC62D4E244200B72F5D /* LoginVerify.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVerify.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 			children = (
 				83D89F972D4E17C300B72F5D /* CombineExampleApp.swift */,
 				83D89F992D4E17C300B72F5D /* ContentView.swift */,
+				83D89FC62D4E244200B72F5D /* LoginVerify.swift */,
 				83D89F9B2D4E17C300B72F5D /* Assets.xcassets */,
 				83D89FA02D4E17C300B72F5D /* Persistence.swift */,
 				83D89FA22D4E17C300B72F5D /* CombineExample.xcdatamodeld */,
@@ -267,6 +270,7 @@
 				83D89FA12D4E17C300B72F5D /* Persistence.swift in Sources */,
 				83D89F9A2D4E17C300B72F5D /* ContentView.swift in Sources */,
 				83D89F982D4E17C300B72F5D /* CombineExampleApp.swift in Sources */,
+				83D89FC72D4E244200B72F5D /* LoginVerify.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
